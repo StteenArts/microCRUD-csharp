@@ -1,0 +1,14 @@
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/obj/Debug/net9.0/clinicHeart.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/obj/Debug/net9.0/clinicHeart.AssemblyInfoInputs.cache
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/obj/Debug/net9.0/clinicHeart.AssemblyInfo.cs
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/obj/Debug/net9.0/clinicHeart.csproj.CoreCompileInputs.cache
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/bin/Debug/net9.0/clinicHeart
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/bin/Debug/net9.0/clinicHeart.deps.json
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/bin/Debug/net9.0/clinicHeart.runtimeconfig.json
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/bin/Debug/net9.0/clinicHeart.dll
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/bin/Debug/net9.0/clinicHeart.pdb
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/obj/Debug/net9.0/clinicHeart.dll
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/obj/Debug/net9.0/refint/clinicHeart.dll
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/obj/Debug/net9.0/clinicHeart.pdb
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/obj/Debug/net9.0/clinicHeart.genruntimeconfig.cache
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/clinicHeart/obj/Debug/net9.0/ref/clinicHeart.dll
