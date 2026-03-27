@@ -1,0 +1,14 @@
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/obj/Debug/net9.0/exerciseWeek-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/obj/Debug/net9.0/exerciseWeek-1.AssemblyInfoInputs.cache
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/obj/Debug/net9.0/exerciseWeek-1.AssemblyInfo.cs
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/obj/Debug/net9.0/exerciseWeek-1.csproj.CoreCompileInputs.cache
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/bin/Debug/net9.0/exerciseWeek-1
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/bin/Debug/net9.0/exerciseWeek-1.deps.json
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/bin/Debug/net9.0/exerciseWeek-1.runtimeconfig.json
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/bin/Debug/net9.0/exerciseWeek-1.dll
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/bin/Debug/net9.0/exerciseWeek-1.pdb
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/obj/Debug/net9.0/exerciseWeek-1.dll
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/obj/Debug/net9.0/refint/exerciseWeek-1.dll
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/obj/Debug/net9.0/exerciseWeek-1.pdb
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/obj/Debug/net9.0/exerciseWeek-1.genruntimeconfig.cache
+/home/cohorte5/Documentos/sars_zone_csharp/user histories moodle/week-1-module-c#/exerciseWeek-1/obj/Debug/net9.0/ref/exerciseWeek-1.dll
